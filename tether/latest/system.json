@@ -1,0 +1,44 @@
+{
+  "name": "Tether",
+  "base": "shadcn",
+  "themes": {
+    "dark": "backstage",
+    "light": "backstage-light"
+  },
+  "mode": "light",
+  "texture": "off",
+  "shape": "standard",
+  "type": "dm",
+  "motion": "full",
+  "tokens": {},
+  "colors": {
+    "dark": {
+      "--p": "#171c1c",
+      "--s": "#1d2525",
+      "--acc": "#99b8b8",
+      "--pos": "#99b8b8",
+      "--fill": "#99b8b8",
+      "--bar-a": "#179915",
+      "--bar-b": "#77c176",
+      "--data-2": "#d4d7cb"
+    },
+    "light": {
+      "--i": "#232220",
+      "--l": "#E5DDD5",
+      "--p": "#fafaf9",
+      "--s": "#f5f2f0",
+      "--i2": "#4b4a49",
+      "--i3": "#525151",
+      "--mid": "#c0cece",
+      "--fill": "#657272",
+      "--bar-a": "#8fcc75",
+      "--bar-b": "#2f8d07",
+      "--field": "#fafaf9",
+      "--top-a": "#fafaf9",
+      "--card-a": "#fafaf9",
+      "--card-b": "#fafaf9",
+      "--data-2": "#2d2d2d",
+      "--on-fill": "#fafaf9"
+    }
+  }
+}
