@@ -1,0 +1,14 @@
+{
+  "name": "@bkstg/design-systems",
+  "version": "1.0.0",
+  "description": "BKSTG design systems: stylesheets, scripts and React components, one folder per system.",
+  "license": "UNLICENSED",
+  "files": [
+    "*/latest/**",
+    "*/v*/**",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

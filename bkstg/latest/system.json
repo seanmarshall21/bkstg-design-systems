@@ -1,0 +1,24 @@
+{
+  "name": "BKSTG",
+  "base": "untitled",
+  "themes": {
+    "dark": "backstage",
+    "light": "backstage-light"
+  },
+  "mode": "light",
+  "texture": "drift",
+  "shape": "standard",
+  "type": "dm",
+  "motion": "full",
+  "tokens": {
+    "--progress-dur": "400ms",
+    "--progress-fill": "var(--fill)",
+    "--progress-track": "var(--on-fill)"
+  },
+  "colors": {
+    "light": {
+      "--pos": "#4c6204",
+      "--bar-b": "#92b913"
+    }
+  }
+}
