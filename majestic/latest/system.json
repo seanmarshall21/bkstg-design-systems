@@ -1,0 +1,14 @@
+{
+  "name": "Majestic",
+  "base": "untitled",
+  "themes": {
+    "dark": "backstage",
+    "light": "backstage-light"
+  },
+  "mode": "auto",
+  "texture": "off",
+  "shape": "standard",
+  "type": "dm",
+  "motion": "full",
+  "tokens": {}
+}
