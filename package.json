@@ -1,6 +1,6 @@
 {
   "name": "@bkstg/design-systems",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "BKSTG design systems: stylesheets, scripts and React components, one folder per system.",
   "license": "UNLICENSED",
   "files": [
